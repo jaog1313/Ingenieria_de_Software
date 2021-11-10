@@ -1,0 +1,33 @@
+@startuml
+@startwbs
+* Sistema domicilios
+** Pedido
+*** Pedido en estado pendiente
+** Despacho del motorista disponible más cercano al punto de origen
+** Recogida del producto en el lugar de origen
+*** El motorista paga el producto en el lugar de origen
+*** Pedido en estado reparto
+** Entrega
+*** Número de pedidos aplicables a promoción aumenta en 1
+*** Número total de pedidos amenta en 1
+*** El cliente paga
+**** Si el número de pedidos aplicables a promoción es 10 el cliente no paga el domicilio
+***** El número de pedidos aplicables a promoción cambia a 0
+**** Si el número de pedidos aplicables a promoción no es 10 el cliente paga el domicilio
+***** 80% del recargo va para el motociclista y 20% para la central
+*** Pedido en estado entregado
+@endwbs
+@enduml
+
+@startuml
+@startwbs
+* Sistema domicilios
+** Análisis de requerimientos
+** Estudio de feasibilidad
+** Diseño
+** Código
+** Testeo
+** Instalar / Deploy
+** Mantenimiento
+@enduml
+@endwbs
