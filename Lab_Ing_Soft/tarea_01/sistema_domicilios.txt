@@ -18,3 +18,16 @@
 *** Pedido en estado entregado
 @endwbs
 @enduml
+
+@startuml
+@startwbs
+* Sistema domicilios
+** Análisis de requerimientos
+** Estudio de feasibilidad
+** Diseño
+** Código
+** Testeo
+** Instalar / Deploy
+** Mantenimiento
+@enduml
+@endwbs
