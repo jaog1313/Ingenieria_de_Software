@@ -1,0 +1,84 @@
+Capítulo 1: El software y la ingeniería de software 1
+El software es el producto que hacen los programadores profesionales, quienes también le dan mantenimiento, hecho para correr en un determinado hardware. El software es ubicuo en nuestra actualidad es decir se encuentra en todas partes. Para hacer software bien se necesita de una estructura, un método eficiente de hacerlo, para ello existe la ingeniería de software.
+
+
+	1.1. La naturaleza del software
+	El software distribuye información. 
+		1.1.1. Definición de software.
+		Adicional a lo anotado anteriormente es posible tratar de mejorar la definición de software. El softare hace parte de un istema lógico, no físico, por lo tanto no se asemeja a otros productos que los seres humanos manufacturemos. "El software se crea y modifica con el intelecto; no se manufactura en el sentido clásico". El software no se desgasta, como si lo hace el hardware, pero si se deteriora con el tiempo debido a que se introducen errores cada vez que se hacen cambios. La mayoría del software se contruye para un uso indivindualizado.
+		1.1.2.Dominos de aplicación del software
+		Hay 7 categorías de software:
+			- Software de sistemas: Programas escritos para que otros programas los usen. Ejemplo: compiladores
+			- Software de aplicación: Programa que soluciona una necesidad específica de negocios. Ejemplo: Procesadores de texto.
+			- Software de ingeniería y ciencias: "devoradores de números"
+			- Software incrustado: Reside dentro de un producto físico y tiene características limitadas. Ejemplo: tablero horno microondas.
+			- Software de línea de productos: 
+			- Aplicaciones web (webapps): 
+			- Software de inteligencia artificial:
+		Desafíos de la ingeniería de software:
+			- Computación en un mundo abierto
+			- Construcción de redes
+			- Fuente abierta
+
+		1.1.3. Software heredado:
+		Es el software desarrollado hace décadas y que sigue siendo vital para que algunas empresas funcionen. Tiene el problema de que es muy difícil y costoso de mantener por la complejidad y la falta de documentación. Además también es difícil de reemplazar por el riesgo que esto conlleva para la empresa.
+
+	1.2. La naturaleza única de las webapps
+	Sus atributos son:
+		- Uso intensivo de redes
+		- Concurrencia
+		- Carga imprescindible
+		- Rendimiento
+		- Disponibilidad
+		- Orientada a los datos
+		- Contenido sensible
+		- Evolución continua
+		- Inmediatez
+		- Seguridad
+		- Estética
+	1.3. Ingenieria de software
+	Realidades a aceptar:
+	- "Debe hacerse un esfuerzo concertado por entender el problema antes de desarrollar una aplicación de software"
+	- "El diseño se ha vuelto una realidad crucial"
+	- "El software debe tener alta calidad"
+	- "El sotware debe tener facilidad para recibir mantenimiento"
+	Estas realidades nos llevan a concluir que "debe hacerse ingeniería con el software en todas sus formas y a través de todos sus dominios de aplicación"
+	La ingenierñia de software tiene capas:
+		- Herramientas
+		- Métodos
+		- Proceso
+		- Compromiso con la calidad
+	1.4. El proceso del software
+	Una estructura de proceso general para la ingeniería de software consta de cinco actividades:
+		- Comunicación
+		- Planeación
+		- Modelado
+		- Construcción
+		- Despliegue
+	Que son complementadas por las siguientes actividades sombrilla
+		- Seguimiento y control del proyecto desoftware
+		- Administración del riesgo
+		- Aseguramiento de la calidad del software
+		- Revisiones técnicas
+		- Medición
+		- Administración de la configuración del software
+		- Administración de la reutilización 
+		- Preparación y producción del producto del trabajo
+
+	1.5. La práctica de la ingeniería de software
+		1.5.1. La esencia de la práctica
+		En "How to solve it" George Polya nos describe la esencia de la solución de problemas, y por ende, de la ingeniería de software (aunque fue escrito antes de que existieran las computadoras):
+			1. Entender el problema (comunicación y análisis)
+			2. Planear la solución (modelado y diseño de software)
+			3. Ejecutar el plan (generación de código)
+			4. Examinar la exactitud del resultado (probar y asegurar la calidad)
+		1.5.2. Principios generales
+			- Primer principio: La razón de que exista todo. El software existe para dar valor a sus usuarios
+			- Segundo principio: MSE (Mantenlo sencillo, estúpido ...)
+			- Tercer principio: Mantener la visión.
+			- Cuarto principio: Otros consumiran lo que usted produce.
+			- Quinto principio: Ábrase al futuro. Nunca diseñe sobre algo indicado, siempre pregunte "¿Qué pasaría sí ...?
+			- Sexto principio: Planee por anticipado la reutilización.
+			- Séptimo principio: Piense!. Pensar antes de actuar.
+	1.6. Mitos del software
+	Hay varios mitos, como el que un "planteamiento del problema general es suficiente para iniciar" que hacen que los administradores y programadores se equivoquen. Por eso muchas veces en vez de seguir el sentido común es mejor guiarse por la ingeniería de software.
